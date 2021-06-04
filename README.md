@@ -25,7 +25,7 @@ This project conducts an analysis on the housing prices of Kings County, Seattle
 * **sqft_living15** - The square footage of interior housing living space for the nearest 15 neighbors
 * **sqft_lot15** - The square footage of the land lots of the nearest 15 neighbors
 
-# Creating Model
+# Creating the Model
 1. Exploratory data analysis was done on the data. There were some outliers and extreme values eg. 33 bedrooms in one house. Sqft_living had the highest correlation with price
 2. Data was cleaned by getting rid of those outliers. 
 3. Some statistical tests were ran to check the significance of variables to the price of the house. 
